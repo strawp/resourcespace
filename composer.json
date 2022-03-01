@@ -1,0 +1,12 @@
+{
+    "name": "montala/resourcespace",
+    "authors": [
+        {
+            "name": "strawp",
+            "email": "github@strawp.net"
+        }
+    ],
+    "require-dev": {
+        "vimeo/psalm": "^4.22"
+    }
+}
